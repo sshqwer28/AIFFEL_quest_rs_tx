@@ -45,10 +45,7 @@ AIFFEL_quest_cr
 │   ├── Ex07
 │   │   ├── .ipynb
 │   │   └── README.md
-│   ├── Ex08
-│   │   ├── .ipynb
-│   │   └── README.md
-│   └── Ex09
+│   └── Ex08
 │       ├── .ipynb
 │       └── README.md
 └── GoingDeeper
@@ -76,7 +73,7 @@ AIFFEL_quest_cr
     ├── Deeper08
     │   ├── .ipynb
     │   └── README.md
-    └── Deeper019
+    └── Deeper09
         ├── .ipynb
         └── README.md
 ~~~
